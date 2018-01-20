@@ -1,12 +1,12 @@
 {
   "main": "./lib/keytar.js",
-  "name": "keytar",
+  "name": "keytar-prebuild",
   "description": "Bindings to native Mac/Linux/Windows password APIs",
   "version": "4.1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/node-keytar.git"
+    "url": "https://github.com/electron-userland/electron-builder-binaries.git"
   },
   "bugs": {
     "url": "https://github.com/atom/node-keytar/issues"
